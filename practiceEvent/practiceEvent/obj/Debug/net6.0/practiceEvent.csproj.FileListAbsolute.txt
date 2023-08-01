@@ -1,0 +1,15 @@
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\bin\Debug\net6.0\practiceEvent.exe
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\bin\Debug\net6.0\practiceEvent.deps.json
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\bin\Debug\net6.0\practiceEvent.runtimeconfig.json
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\bin\Debug\net6.0\practiceEvent.dll
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\bin\Debug\net6.0\practiceEvent.pdb
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.csproj.AssemblyReference.cache
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.AssemblyInfoInputs.cache
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.AssemblyInfo.cs
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.csproj.CoreCompileInputs.cache
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.dll
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\refint\practiceEvent.dll
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.pdb
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\practiceEvent.genruntimeconfig.cache
+C:\Users\hta\Documents\Dotnet-Coursera\practiceEvent\practiceEvent\obj\Debug\net6.0\ref\practiceEvent.dll
