@@ -1,0 +1,15 @@
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\bin\Debug\net6.0\myFirstDotnet.exe
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\bin\Debug\net6.0\myFirstDotnet.deps.json
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\bin\Debug\net6.0\myFirstDotnet.runtimeconfig.json
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\bin\Debug\net6.0\myFirstDotnet.dll
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\bin\Debug\net6.0\myFirstDotnet.pdb
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.csproj.AssemblyReference.cache
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.AssemblyInfoInputs.cache
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.AssemblyInfo.cs
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.csproj.CoreCompileInputs.cache
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.dll
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\refint\myFirstDotnet.dll
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.pdb
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\myFirstDotnet.genruntimeconfig.cache
+C:\Users\hta\Documents\Dotnet-Coursera\myFirstDotnet\obj\Debug\net6.0\ref\myFirstDotnet.dll
